@@ -3,6 +3,11 @@ This repository contains the latest source code of the spring-boot-microservices
 
 You can watch the tutorial on Youtube [here](https://youtu.be/yn_stY3HCr8?si=EjrBEUl0P-bzSWRG)
 
+## 📖 Documentation
+
+- **[Quick Start Guide](QUICK_START_GUIDE.md)** - Beginner-friendly introduction with simple examples
+- **[Complete Architecture & Flow Guide](PROJECT_ARCHITECTURE_AND_FLOW.md)** - Comprehensive deep-dive into the system architecture, design patterns, and request flows
+
 ## Services Overview
 
 - Product Service
